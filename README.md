@@ -12,4 +12,4 @@ Please note the following data when submitting issues
 - Provide a link to the page where the issue was detected (if possible)
 - Provide a detailed description of the issue
 
-Please contact [SMPTE Standards Support](standards-support@smpte.org) if you have any questions.
+Please contact [SMPTE Standards Support](mailto:standards-support@smpte.org) if you have any questions.
