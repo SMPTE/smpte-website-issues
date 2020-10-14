@@ -2,7 +2,7 @@
 
 **Website Issue Tracker**
 
-The SMPTE website (wwww.smpte.org) has been updated. While most SMPTE Standards pages from the old website were taken over into the new website verbatim the refresh may have caused some issues. We need your help to identify any remaining issues and to record them in the issue tracker for this repository. Please focus on structural issues like broken or incorrect links and obviously wrong text.  
+The SMPTE website (wwww.smpte.org) has been updated. While most SMPTE Standards webpages from the old website were taken over into the new website verbatim the refresh may have caused some issues. We need your help to identify any remaining issues and to record them in the issue tracker for this repository. The SMPTE Standards webpages can be accessed through the "Innovate" menu on the SMPTE website. Please focus on structural issues like broken or incorrect links and obviously wrong text.
 
 Please note the following data when submitting issues
 - Computer system
